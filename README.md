@@ -1,6 +1,6 @@
 # Hi, I'm Hamza Mehmood 👋
 
-### Software Engineer | Full-Stack Development | AI Enthusiast
+### Software Engineer | Full-Stack Development 
 
 I'm a Computer Science graduate and Trainee Software Engineer interested in building practical software solutions, developing full-stack applications, and exploring AI-powered tools.
 
